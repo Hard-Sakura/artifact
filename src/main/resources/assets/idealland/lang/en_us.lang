@@ -1,0 +1,11 @@
+#Enchantments
+enchantment.idealland.test_enchantment=Early Access
+enchantment.artifact.duang_boom=boom
+enchantment.artifact.duang_boom1=boom1
+
+# Items
+item.artifact_w1.name=someThingForTestOne
+item.artifact_w1.desc=someThingForTestOneDesc
+
+# titl
+tile.artifact_k1.name=testKuaiOne

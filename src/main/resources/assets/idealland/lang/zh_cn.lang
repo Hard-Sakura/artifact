@@ -1,0 +1,10 @@
+# Enchantments
+enchantment.artifact.duang_boom=崩
+enchantment.artifact.duang_boom1=崩1
+
+# Items
+item.artifact_w1.name=测试物品一号
+item.artifact_w1.desc=测试物品一号描述
+
+# titl
+tile.artifact_k1.name=测试方块一号
