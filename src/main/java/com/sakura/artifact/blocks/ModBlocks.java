@@ -6,6 +6,11 @@ import net.minecraft.block.material.Material;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @desc: 方块
+ * @auther: Sakura
+ * @date:  16:32
+ */
 public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
@@ -18,5 +23,6 @@ public class ModBlocks {
 	 */
 
 	//public static final Block GRID_BLOCK_1 = new BlockBase("test", Material.CLAY).setCreativeTab(ModCreativeTab.IDL_MISC).setHardness(15f);
-	public static final Block ARTIFACT_K1 = new BlockBase("artifact_k1", Material.CLAY);
+	/**参数：名字，质地；括号外是硬度*/
+	public static final Block ARTIFACT_K1 = new BlockBase("artifact_k1", Material.GROUND).setHardness(5f);
 }

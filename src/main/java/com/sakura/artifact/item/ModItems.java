@@ -5,6 +5,11 @@ import net.minecraft.item.Item;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @desc: 物品
+ * @auther: Sakura
+ * @date:  16:33
+ */
 public class ModItems {
 
 	public static final List<Item> ITEMS = new ArrayList<Item>();

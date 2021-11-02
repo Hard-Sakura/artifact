@@ -21,6 +21,11 @@ import java.util.List;
 
 import static com.sakura.artifact.util.CommonDef.TICK_PER_SECOND;
 
+/**
+ * @desc: 附魔
+ * @auther: Sakura
+ * @date:  16:32
+ */
 @Mod.EventBusSubscriber(modid = ActFramework.MODID)
 public class ModEnchantmentInit {
 

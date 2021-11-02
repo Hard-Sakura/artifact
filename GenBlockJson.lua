@@ -1,5 +1,5 @@
 local outFile = nil;
-local modName = "idlframewok";
+local modName = "artifact";
 local blockName = "grid_normal";
 
 local function GenModelBlockItem()
@@ -60,6 +60,11 @@ local function GenItem(_typeName, _itemName)
 end
 
  GenItem("misc", "idl_ai_terminal");
+
+
+GenBlock("artifact_k1");
+
+GenItem("misc", "artifact_w1");
 
 
 --GenBlock("idl_glass");
