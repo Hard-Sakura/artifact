@@ -59,6 +59,11 @@ local function GenItem(_typeName, _itemName)
 	outFile:close();
 end
 
+--方块
+--GenBlock("artifact_k1");
+
+--物品
+--GenItem("misc", "artifact_w1");
 
 
 --GenBlock("idl_glass");
