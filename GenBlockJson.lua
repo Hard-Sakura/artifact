@@ -59,12 +59,6 @@ local function GenItem(_typeName, _itemName)
 	outFile:close();
 end
 
- GenItem("misc", "idl_ai_terminal");
-
-
-GenBlock("artifact_k1");
-
-GenItem("misc", "artifact_w1");
 
 
 --GenBlock("idl_glass");
