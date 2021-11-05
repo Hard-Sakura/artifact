@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "1A1",
+        "1A1",
+        " 1 "
+    ],
+    
+    "key":
+    {
+        "1":
+        {
+            "item": "minecraft:stone",
+            "data": 32767
+        },
+        "A":
+        {
+            "item": "artifact:artifact_w1"
+        }
+    },
+    
+    "result":
+    {
+        "item": "artifact:artifact_k1",
+        "count": 1
+    }
+}

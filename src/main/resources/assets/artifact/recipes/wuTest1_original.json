@@ -1,0 +1,11 @@
+{
+    "result": {
+        "item": "artifact:artifact_w1"
+    },
+    "ingredients": [
+        [
+            { "item": "minecraft:diamond" }
+        ]
+    ],
+    "type": "forge:ore_shapeless"
+}
